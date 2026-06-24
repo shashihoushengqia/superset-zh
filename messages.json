@@ -3383,7 +3383,6 @@
       "Private Key": ["私钥"],
       "Private Key & Password": ["私钥和密码"],
       "Private Key Password": ["私钥密码"],
-      "List Groups": ["组列表"],
       "Proceed": ["继续"],
       "Profile": ["用户资料"],
       "Progress": ["进度"],
@@ -6105,7 +6104,10 @@
       "y": ["Y"],
       "y: values are normalized within each row": ["y: 每行中的值已标准化"],
       "year": ["年"],
-      "zoom area": ["缩放面积"]
+      "zoom area": ["缩放面积"],
+      "List Groups": ["组列表"],
+      "Theme": ["主题"],
+      "Themes": ["主题"]
     }
   }
 }
